@@ -1,12 +1,16 @@
 [
   {
+    "id": "unique-identifier-1",
+    "title": "Prompt Title",
+    "content": "The actual prompt text content",
+    "tags": ["tag1", "tag2"],
+    "enabled": true
+  },
+  {
+    "id": "93b31700-4005-46e7-a169-311f18cea307",
     "content": "将图片转换为吉卜力风格",
     "enabled": true,
-    "id": "93b31700-4005-46e7-a169-311f18cea307",
-    "tags": [
-      "画图",
-      "吉卜力"
-    ],
+    "tags": ["画图","吉卜力"],
     "title": "吉卜力风格"
   },
   {
